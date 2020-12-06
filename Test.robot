@@ -4,7 +4,7 @@ Library    Screenshot
 
 *** Test Cases ***
 Open Application
-    [Tags]    Test
+    [Tags]    Test  Login
     open browser    https://www.amazon.co.in    chrome
     take screenshot
 
