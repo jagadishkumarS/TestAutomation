@@ -106,3 +106,5 @@ def aggFunction(testname, AGNumber, status, message):
     data.append(testdata)
     print(data)
 
+
+print("Hello world")
